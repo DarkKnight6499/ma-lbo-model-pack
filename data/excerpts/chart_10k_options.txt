@@ -1,0 +1,12 @@
+The following table summarizes our stock option activity from continuing operations:
+December 31, 2025
+Number of Shares | Weighted-average Exercise Price | Aggregate Intrinsic Value | Weighted- average Remaining Contractual Term
+Outstanding at beginning of year | 0.33 | 97.00
+Granted | 0.05 | 189.88
+Exercised | ( 0.01 ) | 112.47
+Forfeited / Cancelled | ( 0.01 ) | 156.52
+Outstanding at end of year | 0.36 | 107.76 | 35.2 | 5.32 years
+Vested and expected to vest at end of year | 0.35 | 106.58 | 34.9 | 5.25 years
+Exercisable at end of year | 0.24 | 85.80 | 29.2 | 4.00 years
+As of December 31, 2025, total unrecognized compensation cost related to stock options expected to be recognized over the weighted-average period of approximately 
+2.5

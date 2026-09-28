@@ -1,0 +1,43 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Year Ended December 31,
+(In millions) | 2025 | 2024 | 2023
+Cash flows from operating activities:
+Net income | 2,624 | 3,008 | 1,970
+Adjustments to reconcile net income to net cash flows from operating activities:
+Depreciation and amortization | 1,188 | 1,136 | 1,087
+Benefit for deferred income taxes | ( 702 ) | ( 671 ) | ( 59 )
+Change in fair value of equity securities | 103 | ( 367 ) | ( 555 )
+Stock-based compensation cost | 203 | 202 | 197
+(Gain) loss on business dispositions | — | — | ( 40 )
+Changes in operating assets and liabilities:
+Current receivables | 358 | ( 159 ) | ( 986 )
+Inventories | 79 | ( 102 ) | ( 461 )
+Accounts payable | 11 | 91 | 61
+Progress collections and deferred income | ( 58 ) | 273 | 1,639
+Contract and other deferred assets | 323 | ( 96 ) | ( 211 )
+Other operating items, net | ( 319 ) | 17 | 420
+Net cash flows provided by operating activities | 3,810 | 3,332 | 3,062
+Cash flows from investing activities:
+Expenditures for capital assets | ( 1,273 ) | ( 1,278 ) | ( 1,224 )
+Proceeds from disposal of assets | 195 | 203 | 208
+Proceeds from sale of equity securities | 1 | 92 | 372
+Proceeds from business dispositions | — | — | 293
+Net cash paid for acquisitions | ( 830 ) | — | ( 301 )
+Other investing items, net | ( 137 ) | ( 33 ) | ( 165 )
+Net cash flows used in investing activities | ( 2,044 ) | ( 1,016 ) | ( 817 )
+Cash flows from financing activities:
+Repayment of long-term debt | — | ( 143 ) | ( 651 )
+Dividends paid | ( 910 ) | ( 836 ) | ( 786 )
+Repurchase of Class A common stock | ( 384 ) | ( 484 ) | ( 538 )
+Other financing items, net | ( 188 ) | ( 64 ) | ( 53 )
+Net cash flows used in financing activities | ( 1,482 ) | ( 1,527 ) | ( 2,028 )
+Effect of currency exchange rate changes on cash and cash equivalents | 67 | ( 71 ) | ( 59 )
+Increase in cash and cash equivalents | 351 | 718 | 158
+Cash and cash equivalents, beginning of period | 3,364 | 2,646 | 2,488
+Cash and cash equivalents, end of period | 3,715 | 3,364 | 2,646
+Supplemental cash flows disclosures:
+Income taxes paid, net of refunds | 1,156 | 1,040 | 595
+Interest paid | 294 | 298 | 309
+See accompanying Notes to Consolidated Financial Statements
+Baker Hughes Company 2025 Form 10-K | 59
+Baker Hughes Company

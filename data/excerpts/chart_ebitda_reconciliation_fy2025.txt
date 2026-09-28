@@ -1,0 +1,28 @@
+RECONCILIATION OF NET INCOME FROM CONTINUING OPERATIONS TO EBITDA AND ADJUSTED EBITDA (UNAUDITED)
+(Dollars in millions)
+Three Months Ended | Year Ended
+December 31, 2025 | December 31, 2024 | December 31, 2025 | December 31, 2024
+Net income from continuing operations | 40.0 | 83.3 | 38.8 | 236.3
+Income tax expense, net | 3.7 | 27.7 | (10.4) | 78.6
+Interest expense, net | 75.3 | 79.8 | 307.8 | 328.5
+Loss on extinguishment of debt | 3.5 | — | 8.2 | 0.7
+Depreciation and amortization | 72.6 | 69.9 | 281.3 | 269.9
+EBITDA (non-GAAP) | 195.1 | 260.7 | 625.7 | 914.0
+Non-recurring costs:
+Termination fee expense (1) | — | — | 266.0 | —
+Deal related & integration costs (2) | 22.1 | 4.5 | 51.6 | 34.4
+Restructuring & related costs (3) | 7.3 | 4.6 | 19.6 | 15.7
+Amortization of step-up value of inventory from Howden acquisition | — | — | — | 21.0
+Other one-time items (4) | 11.5 | 5.3 | 28.5 | 10.2
+Employee share-based compensation expense | 1.8 | 4.6 | 17.2 | 18.9
+Unrealized loss (gain) on investments in equity securities and loss from strategic equity method investments (5) | 1.0 | 3.9 | 5.7 | (0.4)
+Adjusted EBITDA (non-GAAP) | 238.8 | 283.6 | 1,014.3 | 1,013.8
+_______________
+(1)
+Includes $266.0 million in termination fee expense associated with the terminated proposed merger with Flowserve.
+(2)
+Deal related & integration costs primarily includes deal costs related to the terminated proposed merger with Flowserve, deal costs related to the pending acquisition of Chart by Baker Hughes, certain acquired project losses, costs associated with monetizing net investments in leases and costs associated with integrating Howden.
+(3)
+Restructuring and other reorganization related costs include restructuring charges as well as other costs associated with closing and consolidating facilities, charges for restructuring certain employee incentive plans and certain charges related to exited pension plans.
+(4)
+Q4 2025 Other primarily includes project losses associated with an order that was substantially committed and negotiated prior to the close of the Howden acquisition, costs associated with incremental shifts needed to start up production lines, one-time charges from transitions to new ERP systems, final charges for Roots divestiture transition service agreement and costs related to a retention consulting agreement. Q4 2024 Other includes costs associated with the termination of a pension plan and other plan expenses, asset impairments, pre-Howden acquisition related tax assessments and legal costs associated with a non-recurring item. 2025 Full Year Other primarily includes project losses associated with an order that was substantially committed and negotiated prior to the close of the Howden acquisition, costs associated with incremental shifts needed to start up production lines, one-time charges from transitions to new ERP systems, final charges for Roots divestiture transition service agreement, costs associated with charges for a specific employment plan in South Africa, incremental costs due to unavoidable supply disruptions, asset impairments, charges related to Howden costs incurred prior to the acquisition, unplanned non-ordinary freight incurred on a project, costs related to a retention consulting agreement and certain customer concessions. 2024 Full Year Other primarily includes costs associated with the termination of a pension plan and other plan expenses, asset impairments and associated insurance recoveries, pre-Howden acquisition related tax assessments, legal cost associated with non-recurring items, administrative costs related to certain equity method investments and a one-time adjustment related to a 2022 settlement adjusted for in the second quarter of 2024.

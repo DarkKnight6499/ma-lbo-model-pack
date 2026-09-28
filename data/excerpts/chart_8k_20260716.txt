@@ -1,0 +1,183 @@
+
+8-K
+CHART INDUSTRIES INC
+false
+0000892553
+--12-31
+0000892553
+2026-07-16
+2026-07-16
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 
+8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): 
+July 16, 2026
+CHART INDUSTRIES, INC.
+(Exact name of registrant as specified in its charter)
+[TABLE]
+Delaware | 001-11442 | 34-1712937
+(State or other jurisdiction of incorporation or organization) | (Commission File Number) | (I.R.S. Employer Identification No.)
+[/TABLE]
+[TABLE]
+8665 New Trails Drive , Suite 100 , The Woodlands , Texas | 77381
+(Address of principal executive offices) | (ZIP Code)
+[/TABLE]
+Registrant’s telephone number, including area code: 
+(770)
+721-8800
+NOT APPLICABLE
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+[TABLE]
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+[/TABLE]
+[TABLE]
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+[/TABLE]
+[TABLE]
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+[/TABLE]
+[TABLE]
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+[/TABLE]
+Securities registered pursuant to Section 12(b) of the Act:
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common stock, par value $0.01 | GTLS | New York Stock Exchange
+[/TABLE]
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 
+12b-2
+ of the Securities Exchange Act of 1934 
+(§240.12b-2
+ of this chapter).
+Emerging growth company 
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Introductory Note 
+This Current Report on Form 
+8-K
+ is being filed in connection with the completion of the transactions contemplated by the previously announced Agreement and Plan of Merger, dated as of July 28, 2025 (as it may be amended from time to time, the “
+Merger Agreement
+”), by and among Chart Industries, Inc., a Delaware corporation (“
+Chart
+”), Baker Hughes Company, a Delaware corporation (“
+Baker Hughes
+”), and Tango Merger Sub, Inc., a Delaware corporation and an indirect subsidiary of Baker Hughes (“
+Merger Sub
+”). 
+On July 16, 2026, Baker Hughes completed its acquisition of Chart in accordance with the Merger Agreement (the “
+Merger
+”), pursuant to which Merger Sub was merged with and into Chart, with Chart surviving the Merger as an indirect subsidiary of Baker Hughes. Capitalized terms used herein without definition have the meanings specified in the Merger Agreement. 
+Item 2.01. Completion of Acquisition or Disposition of Assets. 
+The information set forth in the Introductory Note of this Current Report on Form 
+8-K
+ is incorporated by reference into this Item 2.01. 
+At the effective time of the Merger (the “
+Effective Time
+”), each share of common stock of Chart, par value $0.01 per share (the “
+Chart Common Stock
+”), issued and outstanding immediately prior to the Effective Time (other than (x) shares of Chart Common Stock owned by Baker Hughes or any of its wholly owned subsidiaries or by Chart or any of its wholly owned subsidiaries or (y) shares of Chart Common Stock owned by stockholders who have properly exercised and perfected appraisal rights under Delaware law, in each case immediately prior to the Effective Time), was canceled and extinguished and automatically converted into the right to receive $210.00 in cash (the “
+Merger Consideration
+”), without interest and subject to any applicable withholding tax. 
+Pursuant to the Merger Agreement, at the Effective Time, (i) each option to purchase shares of Chart Common Stock with an exercise price per share less than the Merger Consideration was canceled and converted into the right to receive the excess of the Merger Consideration over the 
+per-share
+ exercise price of such option, and each option with an exercise price per share equal to or greater than the Merger Consideration was canceled for no consideration; (ii) each restricted stock unit with respect to shares of Chart Common Stock granted prior to the date of the Merger Agreement was canceled and converted into the right to receive the Merger Consideration; (iii) each restricted stock unit with respect to shares of Chart Common Stock granted on or after the date of the Merger Agreement was converted into a Baker Hughes restricted stock unit based on a conversion ratio determined using the average of the high and low selling prices of Baker Hughes Class A common stock on the trading day immediately preceding the closing, with such award remaining subject to the same terms and conditions as were applicable to such award immediately prior to the Effective Time; (iv) a pro rata portion of each performance stock unit (“
+Chart PSU
+”) with respect to shares of Chart Common Stock (based on the portion of the applicable performance period elapsed prior to the closing and the greater of (x) the target level of performance applicable to such Chart PSU and (y) the actual level of performance achieved as of immediately prior to the Effective Time) was canceled and converted into the right to receive the Merger Consideration; and (v) the remaining portion of each Chart PSU that was not canceled and converted into the right to receive the Merger Consideration was canceled and converted into the right to receive a cash-based award based on the number of shares of Chart Common Stock subject to such remaining portion and the deemed level of performance as set forth in the immediately preceding clause (iv), with such award remaining subject to time-based vesting until the last day of the original performance period applicable to the related Chart PSU. 
+2 
+Baker Hughes funded the Merger Consideration through a combination of cash on hand, proceeds from the issuance of $6.5 billion and €3.0 billion senior notes on March 11, 2026 and borrowings under the term loan credit agreements entered into by Baker Hughes, as disclosed in a 
+Form 8-K
+ filed by Baker Hughes. 
+In addition, in connection with the completion of the Merger, (i) funds sufficient to redeem (A) all $1,457,043,000 aggregate principal amount of Chart’s outstanding 7.500% Senior Secured Notes due 2030 (the “
+Secured Notes
+”), issued pursuant to the Indenture, dated as of December 22, 2022 (as amended and supplemented, the “
+Secured Notes Indenture
+”), among Chart, the guarantors party thereto, U.S. Bank Trust Company, National Association, as trustee (the “
+Trustee
+”), and U.S. Bank Trust Company, National Association, as notes collateral agent and (B) all $510,000,000 aggregate principal amount of Chart’s outstanding 9.500% Senior Notes due 2031 (the “
+Unsecured Notes
+” and, together with the Secured Notes, the “
+Notes
+”), issued pursuant to the Indenture, dated as of December 22, 2022 (as amended and supplemented, the “
+Unsecured Notes Indenture
+” and, together with the Secured Notes Indenture, the “
+Indentures
+”), among Chart, the guarantors party thereto and the Trustee, were irrevocably deposited with the Trustee in accordance with the notices of redemption previously delivered to holders of the Notes. Upon such deposit and the satisfaction of the other conditions set forth in the Indentures, each Indenture was satisfied and discharged in accordance with its terms and (ii) all amounts outstanding under that certain Fifth Amended and Restated Credit Agreement, dated as of October 18, 2021, by and among Chart, the foreign borrowers from time to time party thereto, JPMorgan Chase Bank, N.A., as collateral agent and administrative agent, the financial institutions party thereto, as lenders, the issuing banks party thereto, and the other agents, arrangers and bookrunners identified therein (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the “
+Credit Agreement
+”), were prepaid in full, all outstanding letters of credit issued under the Credit Agreement were backstopped or assigned to and assumed by Baker Hughes or its subsidiaries under its bilateral facilities with the applicable issuing banks, and all Commitments under the Credit Agreement were terminated. 
+The description of the effects of the Merger Agreement and of the transactions contemplated by the Merger Agreement does not purport to be complete and is subject to, and qualified in its entirety by reference to, the full text of the Merger Agreement, which was filed as Exhibit 2.1 to Chart’s Current Report on Form 
+8-K
+ filed on July 29, 2025, and which is incorporated herein by reference. 
+Item 3.01. Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing. 
+The information set forth in the Introductory Note of this Current Report on Form 
+8-K
+ is incorporated by reference into this Item 3.01. 
+On July 16, 2026, in connection with the consummation of the Merger, Chart notified the New York Stock Exchange (the “
+NYSE
+”) of the completion of the Merger and requested that the NYSE withdraw the listing of Chart Common Stock and file with the Securities and Exchange Commission (the “
+Commission
+”) an application on Form 25 to delist and deregister Chart Common Stock under Section 12(b) of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”). Chart intends to file a Form 15 with the Commission requesting the termination of registration of Chart Common Stock under Section 12(g) of the Exchange Act and the suspension of reporting obligations under Sections 13 and 15(d) of the Exchange Act. 
+Item 3.03. Material Modification to Rights of Security Holders. 
+The information set forth in Item 2.01 of this Current Report on Form 8-K is incorporated by reference into this Item 3.03. 
+As a result of the consummation of the Merger, at the Effective Time, holders of Chart Common Stock immediately prior to the Effective Time (other than holders described in Item 2.01 of this Current Report on Form 8-K) ceased to have any rights as stockholders of Chart, other than the right to receive the Merger Consideration pursuant to the terms of the Merger Agreement. 
+Item 5.01. Changes in Control of Registrant. 
+The information set forth in the Introductory Note and under Item 2.01 of this Current Report on Form 
+8-K
+ is incorporated by reference into this Item 5.01. 
+3 
+As a result of the consummation of the Merger on July 16, 2026, a change in control of Chart occurred. Pursuant to the Merger Agreement, Merger Sub merged with and into Chart, with Chart surviving the Merger as an indirect subsidiary of Baker Hughes. At the Effective Time, Baker Hughes acquired control of Chart. The Merger Consideration paid to holders of Chart Common Stock was $210.00 per share in cash, without interest and subject to any applicable withholding tax. Baker Hughes funded the Merger Consideration through a combination of cash on hand, proceeds from the issuance of senior notes and borrowings under term loan credit agreements, as described in Item 2.01 of this Current Report on Form 
+8-K.
+ As a result of the Merger, Baker Hughes beneficially owns, directly or indirectly, substantially all of the outstanding equity interests of Chart. 
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+The information set forth in the Introductory Note of this Current Report on Form 
+8-K
+ is incorporated by reference into this Item 5.02. 
+In connection with the consummation of the Merger, and effective as of the Effective Time, each of the members of the board of directors of Chart immediately prior to the Effective Time ceased to serve as directors of Chart. The directors who ceased to serve were: Andrew R. Cichocki, Paula M. Harris, Linda A. Harty, Paul E. Mahoney, David M. Sagehorn, Spencer S. Stiles, and Roger A. Strauch. None of such resignations were the result of any disagreement with Chart on any matter relating to Chart’s operations, policies or practices. In addition, effective as of the Effective Time, each of the executive officers of Chart immediately prior to the Effective Time, other than Joseph A. Belling, was removed by Baker Hughes from their respective executive officer positions. The executive officers who were removed were: Gerald F. Vinci, President, Joseph R. Brinkman, Vice President and Chief Financial Officer, and Herbert G. Hotchkiss, Vice President, General Counsel and Secretary. Joseph A. Belling will continue as the Chief Technology Officer of Chart. 
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. 
+The information set forth in the Introductory Note of this Current Report on Form 
+8-K
+ is incorporated by reference into this Item 5.03. 
+At the Effective Time, and in connection with the consummation of the Merger, the certificate of incorporation of Chart was amended and restated in its entirety in the form of the Amended and Restated Certificate of Incorporation (the “
+Amended and Restated Certificate of Incorporation
+”). Among other things, the Amended and Restated Certificate of Incorporation (i) revised the authorized capital stock to consist of 1,000 shares of common stock, par value $0.01 per share and (ii) provided for such other changes as were necessary or appropriate to reflect Chart’s status as an indirect subsidiary of Baker Hughes. 
+In addition, at the Effective Time, the bylaws of Chart were amended and restated in their entirety in the form of the Amended and Restated Bylaws (the “
+Amended and Restated Bylaws
+”). The Amended and Restated Bylaws contain customary provisions for a subsidiary of a publicly traded parent company. 
+The foregoing descriptions of the Amended and Restated Certificate of Incorporation and the Amended and Restated Bylaws do not purport to be complete and are qualified in their entirety by reference to the full text of the Amended and Restated Certificate of Incorporation and the Amended and Restated Bylaws, copies of which are filed as Exhibits 3.1 and 3.2, respectively, to this Current Report on Form 
+8-K,
+ and are incorporated herein by reference. 
+4 
+[TABLE]
+Item 9.01 | Financial Statements and Exhibits
+[/TABLE]
+(d) Exhibits 
+[TABLE]
+Exhibit No. | Description
+2.1* | Agreement and Plan of Merger, dated as of July 28, 2025, by and among Chart Industries, Inc., Baker Hughes Company and Tango Merger Sub, Inc. (incorporated by reference to Exhibit 2.1 to the Company’s Current Report on Form 8-K filed with the SEC on July 29, 2025).
+3.1 | Amended and Restated Certificate of Incorporation of Chart Industries, Inc., effective as of July 16, 2026.
+3.2 | Amended and Restated Bylaws of Chart Industries, Inc., effective as of July 16, 2026.
+104 | Cover Page Interactive Data File (embedded within the Inline XBRL document).
+[/TABLE]
+[TABLE]
+* | Schedules have been omitted pursuant to Item 601(b)(2) of Regulation S-K, but a copy will be furnished supplementally to the SEC upon request.
+[/TABLE]
+5 
+SIGNATURES 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+[TABLE]
+CHART INDUSTRIES, INC.
+By: | /s/ John Harrell
+Name: | John Harrell
+Title: | Authorized Signatory
+Date: July 16, 2026
+[/TABLE]
+6 

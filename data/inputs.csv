@@ -1,0 +1,137 @@
+key,label,value,unit,kind,source_id,locator
+offer_price,Offer price per Chart share,210.00,USD per share,DISCLOSED,S01,Ex.99.1 Transaction Details: $210 per share in cash
+unaffected_price,Chart close 2025-06-03 (last trading day before Flowserve announcement),161.59,USD per share,DISCLOSED,S02,Market price section: closing price on the Unaffected Date
+price_pre_announce,Chart close 2025-07-28 (day before announcement),171.65,USD per share,DISCLOSED,S02,Market price section
+stated_ev,Stated enterprise value,13600,USD mm,DISCLOSED,S01,Ex.99.1 headline: total enterprise value of $13.6 billion
+stated_equity_value,Stated equity value,10100,USD mm,DISCLOSED,S02,Background of the Merger: implied equity value of $10.1 billion
+stated_synergies_runrate,Stated annualized cost synergies (end of year three),325,USD mm,DISCLOSED,S01,Ex.99.1 Delivers Substantial Synergies
+stated_multiple_synergized,Stated EV multiple on consensus 2025 EBITDA fully synergized,9.0,x,DISCLOSED,S01,Ex.99.1 Transaction Details: ~9x
+stated_net_leverage_close,Stated Baker Hughes projected net leverage at close,2.25,x,DISCLOSED,S01,Ex.99.1 Transaction Details
+chart_shares_issued,Chart shares issued 2025-12-31,48.557490,mm shares,DISCLOSED,S03,Balance sheet common stock caption
+chart_shares_treasury,Chart treasury shares 2025-12-31,0.760782,mm shares,DISCLOSED,S03,Balance sheet treasury stock caption
+chart_options,Chart options outstanding,0.36,mm,DISCLOSED,S03,Note 10 stock option activity: outstanding at end of year
+chart_option_strike,Chart options weighted-average exercise price,107.76,USD,DISCLOSED,S03,Note 10 stock option activity
+chart_rsu,Chart unvested RSUs,0.09,mm,DISCLOSED,S03,Note 10 unvested restricted stock and RSUs
+chart_psu,Chart unvested PSUs (100% earned),0.08,mm,DISCLOSED,S03,Note 10 performance units
+chart_cash,Chart cash and equivalents 2025-12-31,366.0,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_ar,Chart accounts receivable net,782.1,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_inventory,Chart inventories net,572.3,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_unbilled,Chart unbilled contract revenue,986.4,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_other_current_assets,Chart other current assets,192.7,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_ppe,Chart PP&E net,918.6,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_goodwill,Chart goodwill,3067.6,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_intangibles,Chart identifiable intangibles net,2511.7,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_other_assets,Chart other assets,409.0,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_total_assets,Chart total assets,9806.4,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_ap,Chart accounts payable,1236.5,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_advances,Chart customer advances and billings in excess,324.4,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_accrued_interest,Chart accrued interest,104.6,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_term_fee_payable,Chart termination fee paid by Baker Hughes (liability),258.0,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_other_current_liab,Chart other current liabilities (includes 0.6 current debt),205.1,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_ltd,Chart long-term debt (carrying),3565.0,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_debt_current,Chart current maturities of debt,0.6,USD mm,DISCLOSED,S03,Note 9 Debt: less current maturities
+chart_dtl,Chart deferred tax liabilities,553.7,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_other_lt_liab,Chart other long-term liabilities,183.4,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_equity,Chart shareholders' equity attributable to Chart,3230.3,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_nci,Chart noncontrolling interests,145.4,USD mm,DISCLOSED,S03,Consolidated balance sheet
+chart_notes_secured_principal,Chart 7.500% senior secured notes due 2030 principal,1457.0,USD mm,DISCLOSED,S03,Note 9 Debt summary of outstanding borrowings
+chart_notes_unsecured_principal,Chart 9.500% senior notes due 2031 principal,510.0,USD mm,DISCLOSED,S03,Note 9 Debt summary of outstanding borrowings
+chart_term_loan_principal,Chart term loans due 2030 principal,1406.0,USD mm,DISCLOSED,S03,Note 9 Debt summary of outstanding borrowings
+chart_revolver_principal,Chart revolver drawn,281.7,USD mm,DISCLOSED,S03,Note 9 Debt summary of outstanding borrowings
+chart_other_debt_principal,Chart other debt facilities,1.3,USD mm,DISCLOSED,S03,Note 9 Debt summary of outstanding borrowings
+chart_sales_fy2025,Chart sales FY2025,4264.0,USD mm,DISCLOSED,S03,Consolidated statements of income
+chart_adj_ebitda_fy2025,Chart adjusted EBITDA FY2025 (company definition),1014.3,USD mm,DISCLOSED,S06,Reconciliation of net income from continuing operations to adjusted EBITDA
+chart_sbc_fy2025,Chart employee share-based compensation FY2025,17.2,USD mm,DISCLOSED,S06,Adjusted EBITDA reconciliation
+chart_da_fy2025,Chart depreciation and amortization FY2025,281.3,USD mm,DISCLOSED,S03,Consolidated statements of cash flows
+chart_amort_fy2025,Chart amortization expense FY2025,194.3,USD mm,DISCLOSED,S03,Consolidated statements of income
+chart_capex_fy2025,Chart capital expenditures FY2025,89.9,USD mm,DISCLOSED,S03,Consolidated statements of cash flows
+chart_q1_2026_sales,Chart sales Q1 2026,884.8,USD mm,DISCLOSED,S04,Condensed statements of operations
+chart_q1_2025_sales,Chart sales Q1 2025,1001.5,USD mm,DISCLOSED,S04,Condensed statements of operations
+chart_cash_jun2025,Chart cash 2025-06-30,342.3,USD mm,DISCLOSED,S05,Condensed balance sheet
+chart_debt_principal_jun2025,Chart debt principal 2025-06-30 (1457.0 + 510.0 + 1581.0 + 225.4 + 2.3),3775.7,USD mm,DISCLOSED,S05,Note Debt summary of outstanding borrowings
+chart_nci_jun2025,Chart noncontrolling interests 2025-06-30,161.7,USD mm,DISCLOSED,S05,Condensed balance sheet
+mgmt_sales,Chart management projections: sales 2026E to 2030E,5085|5433|5731|6034|6354,USD mm,DISCLOSED,S02,Certain Unaudited Prospective Financial Information
+mgmt_ebitda,Chart management projections: EBITDA (SBC treated as cash) 2026E to 2030E,1286|1395|1490|1589|1673,USD mm,DISCLOSED,S02,Certain Unaudited Prospective Financial Information
+mgmt_sales_2025e,Chart management projection sales 2025E,4645,USD mm,DISCLOSED,S02,Certain Unaudited Prospective Financial Information
+mgmt_ebitda_2025e,Chart management projection EBITDA 2025E,1146,USD mm,DISCLOSED,S02,Certain Unaudited Prospective Financial Information
+wf_precedent_low,Wells Fargo precedent transaction EV/LTM EBITDA low,11.0,x,DISCLOSED,S02,Opinion of Wells Fargo: selected transactions analysis
+wf_precedent_high,Wells Fargo precedent transaction EV/LTM EBITDA high,13.0,x,DISCLOSED,S02,Opinion of Wells Fargo: selected transactions analysis
+wf_terminal_low,Wells Fargo DCF terminal EBITDA multiple low,9.0,x,DISCLOSED,S02,Opinion of Wells Fargo: discounted cash flow analysis
+wf_terminal_high,Wells Fargo DCF terminal EBITDA multiple high,11.0,x,DISCLOSED,S02,Opinion of Wells Fargo: discounted cash flow analysis
+bkr_ni,Baker Hughes net income attributable FY2025,2588,USD mm,DISCLOSED,S07,Consolidated statements of income
+bkr_diluted_shares,Baker Hughes Class A diluted weighted average shares FY2025,994,mm shares,DISCLOSED,S07,Note 14 Earnings per share
+bkr_diluted_eps,Baker Hughes diluted EPS FY2025,2.60,USD,DISCLOSED,S07,Consolidated statements of income
+bkr_interest_income,Baker Hughes interest income FY2025,82,USD mm,DISCLOSED,S07,MD&A interest expense discussion
+bkr_cash,Baker Hughes cash 2025-12-31,3715,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_cash_prior,Baker Hughes cash 2024-12-31,3364,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_receivables,Baker Hughes current receivables,6641,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_inventories,Baker Hughes inventories,4954,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_other_current_assets,Baker Hughes all other current assets (includes 258 advance to Chart),3518,USD mm,DISCLOSED,S07,Consolidated statements of financial position; Note on Chart advance
+bkr_ppe,Baker Hughes PP&E net,5326,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_goodwill,Baker Hughes goodwill,6068,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_intangibles,Baker Hughes other intangible assets net,4097,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_contract_assets,Baker Hughes contract and other deferred assets,1620,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_dta,Baker Hughes deferred income tax assets,1957,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_other_assets,Baker Hughes all other assets,2985,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_total_assets,Baker Hughes total assets,40881,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_ap,Baker Hughes accounts payable,4579,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_st_debt,Baker Hughes short-term and current portion of long-term debt,689,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_progress,Baker Hughes progress collections and deferred income,5904,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_other_current_liab,Baker Hughes all other current liabilities,2705,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_ltd,Baker Hughes long-term debt,5398,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_pensions,Baker Hughes pension and other postretirement liabilities,1066,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_dtl,Baker Hughes deferred income tax liabilities,84,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_other_liab,Baker Hughes all other liabilities,1446,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_equity,Baker Hughes equity attributable to Baker Hughes Company,18834,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_nci,Baker Hughes noncontrolling interests,176,USD mm,DISCLOSED,S07,Consolidated statements of financial position
+bkr_chart_advance,Baker Hughes advance paid on behalf of Chart (termination fee and expenses),258,USD mm,DISCLOSED,S07,Note on acquisitions: recorded in All other current assets
+bkr_segment_ebitda,Baker Hughes total segment EBITDA FY2025,5100,USD mm,DISCLOSED,S07,Segment note reconciliation
+bkr_corporate_costs,Baker Hughes corporate costs FY2025,318,USD mm,DISCLOSED,S07,Segment note reconciliation
+usd_notes_face_total,Baker Hughes USD senior notes issued March 2026 (face),6500,USD mm,DISCLOSED,S09,Note 8 Debt: $6.5 billion notes offering
+eur_notes_face_eur,Baker Hughes euro senior notes issued March 2026 (face),3000,EUR mm,DISCLOSED,S09,Note 8 Debt: EUR 3.0 billion notes offering
+notes_issue_cost_discount,Unamortized issuance costs and discount on the March 2026 notes,86,USD mm,DISCLOSED,S09,Note 8 Debt
+term_loan_total,Baker Hughes term loans July 2026 (2 x 1.0 billion),2000,USD mm,DISCLOSED,S10,Item 1.01 Term Loan Credit Agreements
+usd_tranche_coupons,USD note coupons 2029|2031|2033|2036|2056,0.04050|0.04350|0.04650|0.05000|0.05850,decimal,DISCLOSED,S08,Note 8 Debt table
+usd_tranche_carrying,USD note carrying values 2029|2031|2033|2036|2056 at 2026-03-31,497|1240|743|1978|1975,USD mm,DISCLOSED,S08,Note 8 Debt table
+usd_tranche_face,USD note face by tranche (inferred: carrying rounded; sums to disclosed 6500),500|1250|750|2000|2000,USD mm,DERIVED,S08,Rounded from carrying values and tied to the disclosed 6.5 billion total
+eur_tranche_coupons,Euro note coupons 2030|2034|2038|2046,0.03226|0.03812|0.04193|0.04737,decimal,DISCLOSED,S08,Note 8 Debt table
+eur_tranche_carrying,Euro note carrying values 2030|2034|2038|2046 at 2026-03-31 (USD),685|1026|853|851,USD mm,DISCLOSED,S08,Note 8 Debt table
+sofr_at_close,SOFR on 2026-07-15 (term loan signing date),0.0364,decimal,DISCLOSED,S12,FRED series SOFR observation 2026-07-15
+sofr_latest,SOFR latest observation 2026-09-25,0.0390,decimal,DISCLOSED,S12,FRED series SOFR observation 2026-09-25
+cash_yield,Baker Hughes cash yield (interest income 82 / average cash),0.023167,decimal,DERIVED,S07,82 / average of 3364 and 3715
+tax_rate,Blended tax rate on deal adjustments,0.23,decimal,ASSUMPTION,A01,21% US federal statutory (BKR 10-K income tax discussion) plus about 2 points state; BKR 2025 effective rate was 8.8% so this is conservative
+term_loan_margin,Term loan margin over SOFR,0.0100,decimal,ASSUMPTION,A02,Within disclosed ranges of 1.00 to 1.25 percent (BofA) and 0.625 to 1.125 percent (UniCredit); ratings grid not disclosed
+new_intangibles,Fair value of acquired identifiable intangibles,4500,USD mm,ASSUMPTION,A03,About one third of EV; Chart existing intangibles are 2511.7 book; independent valuation not public
+intangibles_life,Weighted average life of acquired intangibles,13,years,ASSUMPTION,A04,Chart existing intangibles net 2511.7 / annual amortization 194.3 is about 12.9 years
+ppe_stepup_pct,PP&E fair value step-up as percent of book,0.10,decimal,ASSUMPTION,A05,Typical industrial manufacturing step-up; no disclosure
+ppe_stepup_life,PP&E step-up depreciation life,10,years,ASSUMPTION,A05,Typical remaining useful life
+inventory_stepup_pct,Inventory fair value step-up as percent of book,0.05,decimal,ASSUMPTION,A05,Flows through cost of sales in year one; no disclosure
+advisory_fee_pct,Advisory legal and other transaction costs as percent of enterprise value,0.0075,decimal,ASSUMPTION,A06,Not disclosed; expensed at close
+tl_fee_pct,Term loan upfront fee,0.0025,decimal,ASSUMPTION,A06,Not disclosed
+fin_fee_amort_years,Amortization period for capitalized financing costs,10,years,ASSUMPTION,A06,Approximates weighted maturity of a note stack spanning 2029 to 2056
+redemption_premium_secured_pct,First-call premium on Chart 7.500% secured notes,0.0375,decimal,ASSUMPTION,A07,Half coupon; indenture call schedule not read. Notes were redeemed per closing 8-K (price not disclosed there)
+redemption_premium_unsecured_pct,First-call premium on Chart 9.500% unsecured notes,0.0475,decimal,ASSUMPTION,A07,Half coupon; indenture call schedule not read
+tl_repayment,Term loan repayment 2026|2027|2028|2029|2030,1000|1000|0|0|0,USD mm,ASSUMPTION,A08,Two-year loans repaid from cash flow consistent with the stated delevering plan
+synergy_phase,Synergy realization as share of run-rate 2026|2027|2028|2029|2030,0.25|0.60|1.00|1.00|1.00,decimal,ASSUMPTION,A09,Run-rate reached at end of year three per press release; ramp shape is illustrative
+integration_cost_multiple,One-time integration cost as multiple of run-rate synergies,1.0,x,ASSUMPTION,A09,Illustrative; not disclosed
+integration_cost_phase,Integration cost timing 2026|2027|2028|2029|2030,0.50|0.30|0.20|0.00|0.00,decimal,ASSUMPTION,A09,Illustrative
+bkr_ni_growth,Baker Hughes standalone net income growth per year,0.06,decimal,ASSUMPTION,A10,No consensus obtained (yfinance rate limited); illustrative
+nci_income,Chart net income attributable to noncontrolling interests per year,5,USD mm,ASSUMPTION,A11,Chart NCI income was -3.5 (FY2025) 14.3 (FY2024) 2.6 (Q1 2026)
+base_growth,Base case Chart sales growth 2026|2027|2028|2029|2030,0.02|0.07|0.07|0.06|0.05,decimal,ASSUMPTION,A12,Q1 2026 sales fell 11.7 percent yoy but backlog was 5.89 billion (+21.5 percent); mgmt case is 9.5 percent in 2026
+base_margin,Base case Chart EBITDA margin (SBC burdened) 2026|2027|2028|2029|2030,0.225|0.230|0.235|0.240|0.245,decimal,ASSUMPTION,A12,FY2025 actual 23.4 percent; FY2025 adj EBITDA missed the 1146 management projection
+scenario,Operating scenario (1 = base case 2 = management projections),1,switch,ASSUMPTION,A12,Selector
+capex_pct,Capex as percent of sales,0.022,decimal,ASSUMPTION,A13,FY2025 2.1 percent; management projects 2.1 to 2.2 percent
+lbo_price,Sponsor bid price per share (hypothetical),210.00,USD per share,ASSUMPTION,A14,Set equal to the actual price so the LBO is comparable with the strategic deal
+lbo_tlb_x,Term loan B as multiple of LTM EBITDA,4.5,x,ASSUMPTION,A15,Illustrative structure for a cyclical industrial
+lbo_notes_x,Senior notes as multiple of LTM EBITDA,1.5,x,ASSUMPTION,A15,Illustrative structure
+lbo_tlb_margin,Term loan B margin over SOFR,0.0325,decimal,ASSUMPTION,A15,Illustrative B1/B+ pricing
+lbo_notes_rate,Senior notes coupon,0.08,decimal,ASSUMPTION,A15,Chart existing 9.5 percent unsecured notes priced in 2022; illustrative
+lbo_tlb_amort,Term loan B mandatory amortization per year,0.01,decimal,ASSUMPTION,A15,Market convention
+lbo_advisory_pct,Sponsor advisory and other fees as percent of EV,0.010,decimal,ASSUMPTION,A15,Illustrative
+lbo_fin_fee_pct,Sponsor financing fees as percent of new debt,0.025,decimal,ASSUMPTION,A15,Illustrative
+lbo_fee_amort_years,LBO financing fee amortization period,7,years,ASSUMPTION,A15,Illustrative
+lbo_min_cash,Minimum operating cash,250,USD mm,ASSUMPTION,A15,Illustrative; roughly 6 percent of sales
+lbo_exit_multiple,Exit EV / EBITDA multiple,12.0,x,ASSUMPTION,A16,Midpoint of Wells Fargo precedent range 11.0 to 13.0x; above the 9.0 to 11.0x DCF terminal range
+lbo_cash_sweep_pct,Cash sweep as percent of excess free cash flow after mandatory amortization,0.75,decimal,ASSUMPTION,A15,Illustrative; typical unitranche/TLB sweep provision
+lbo_hold_years,LBO holding period,5,years,ASSUMPTION,A16,Standard sponsor hold
+nci_treatment_note,NCI measured at carrying value for goodwill purposes,1,switch,ASSUMPTION,A17,Chart's noncontrolling interests are minority JV stakes with no quoted fair value; carrying value used as a simplifying proxy in both the merger PPA and the LBO opening balance sheet

@@ -1,0 +1,42 @@
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE (LOSS) INCOME
+(UNAUDITED)
+(Dollars and shares in millions, except per share amounts)
+Three Months Ended March 31,
+2026 | 2025
+Sales | 884.8 | 1,001.5
+Cost of sales | 633.4 | 661.7
+Gross profit | 251.4 | 339.8
+Selling, general and administrative expenses | 152.0 | 141.0
+Amortization expense | 46.8 | 46.5
+Operating expenses | 198.8 | 187.5
+Operating income | 52.6 | 152.3
+Interest expense, net | 73.0 | 77.1
+Other expense, net | 6.3 | 3.3
+(Loss) income from continuing operations before income taxes and equity in loss of unconsolidated affiliates, net | ( 26.7 ) | 71.9
+Income tax (benefit) expense | ( 12.5 ) | 17.6
+(Loss) income from continuing operations before equity in loss of unconsolidated affiliates, net | ( 14.2 ) | 54.3
+Equity in loss of unconsolidated affiliates, net | ( 0.3 ) | —
+Net (loss) income from continuing operations | ( 14.5 ) | 54.3
+Loss from discontinued operations, net of tax | — | ( 2.0 )
+Net (loss) income | ( 14.5 ) | 52.3
+Less: Income attributable to noncontrolling interests of continuing operations, net of taxes | 2.6 | 2.8
+Net (loss) income attributable to Chart Industries, Inc. | ( 17.1 ) | 49.5
+4
+Table of Contents
+Three Months Ended March 31,
+2026 | 2025
+Amounts attributable to Chart common shareholders
+(Loss) income from continuing operations | ( 17.1 ) | 51.5
+Less: Mandatory convertible preferred stock dividend requirement | — | 6.8
+(Loss) income from continuing operations attributable to Chart | ( 17.1 ) | 44.7
+Loss from discontinued operations, net of tax | — | ( 2.0 )
+Net (loss) income attributable to Chart common shareholders | ( 17.1 ) | 42.7
+Basic earnings per common share attributable to Chart Industries, Inc.
+(Loss) income from continuing operations | ( 0.36 ) | 0.99
+Loss from discontinued operations | — | ( 0.04 )
+Net (loss) income attributable to Chart Industries, Inc. | ( 0.36 ) | 0.95
+Diluted earnings per common share attributable to Chart Industries, Inc.
+(Loss) income from continuing operations | ( 0.36 ) | 0.99
+Loss from discontinued operations | — | ( 0.05 )
+Net (loss) income attributable to Chart Industries, Inc. | ( 0.36 ) | 0.94
+Weighted-average number of common shares outstanding:

@@ -1,0 +1,20 @@
+The following table represents the components of our borrowings:
+June 30, 2025 | December 31, 2024
+Senior secured and senior unsecured notes:
+Principal amount, senior secured notes due 2030 | 1,457.0 | 1,460.0
+Principal amount, senior unsecured notes due 2031 | 510.0 | 510.0
+Unamortized discount | ( 21.7 ) | ( 23.5 )
+Unamortized debt issuance costs | ( 26.5 ) | ( 28.8 )
+Senior secured and senior unsecured notes, net of unamortized discount and debt issuance costs | 1,918.8 | 1,917.7
+Senior secured revolving credit facilities and term loans:
+Term loans due March 2030 | 1,581.0 | 1,581.0
+Senior secured revolving credit facility due April 2029 | 225.4 | 205.0
+Unamortized discount | ( 29.0 ) | ( 31.3 )
+Unamortized debt issuance costs | ( 29.8 ) | ( 32.3 )
+Senior secured revolving credit facility and term loan, net of unamortized discount and debt issuance costs | 1,747.6 | 1,722.4
+Other debt facilities | 2.3 | 1.5
+Total debt, net of unamortized debt issuance costs | 3,668.7 | 3,641.6
+Less: Current maturities | 1.5 | 0.9
+Long-term debt | 3,667.2 | 3,640.7
+Cash paid for interest during the three months ended June 30, 2025 and 2024 was $
+34.2

@@ -1,0 +1,43 @@
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(Dollars in millions, except per share amounts)
+March 31, 2026 | December 31, 2025
+ASSETS
+Current Assets
+Cash and cash equivalents | 267.9 | 366.0
+Accounts receivable, net | 763.4 | 782.1
+Inventories, net | 587.5 | 572.3
+Unbilled contract revenue | 1,045.6 | 986.4
+Other current assets | 195.4 | 192.7
+Total Current Assets | 2,859.8 | 2,899.5
+Property, plant, and equipment, net | 917.6 | 918.6
+Goodwill | 3,061.8 | 3,067.6
+Identifiable intangible assets, net | 2,450.9 | 2,511.7
+Other assets | 401.5 | 409.0
+TOTAL ASSETS | 9,691.6 | 9,806.4
+LIABILITIES AND EQUITY
+Current Liabilities
+Accounts payable | 1,114.8 | 1,236.5
+Customer advances and billings in excess of contract revenue | 285.0 | 324.4
+Accrued interest | 62.6 | 104.6
+Termination fee paid by Baker Hughes Company | 258.0 | 258.0
+Other current liabilities | 154.3 | 205.1
+Total Current Liabilities | 1,874.7 | 2,128.6
+Long-term debt | 3,786.7 | 3,565.0
+Deferred tax liabilities | 554.4 | 553.7
+Other long-term liabilities | 170.7 | 183.4
+Total Liabilities | 6,386.5 | 6,430.7
+Equity
+Common stock, par value $ 0.01 per share — 150,000,000 shares authorized, 48,629,858 and 48,557,490 shares issued at March 31, 2026 and December 31, 2025, respectively | 0.5 | 0.5
+Additional paid-in capital | 1,903.3 | 1,902.1
+Treasury stock; 760,782 shares at both March 31, 2026 and December 31, 2025 | ( 19.3 ) | ( 19.3 )
+Retained earnings | 1,109.8 | 1,127.0
+Accumulated other comprehensive income | 162.9 | 220.0
+Total Chart Industries, Inc. Shareholders’ Equity | 3,157.2 | 3,230.3
+Noncontrolling interests | 147.9 | 145.4
+Total Equity | 3,305.1 | 3,375.7
+TOTAL LIABILITIES AND EQUITY | 9,691.6 | 9,806.4
+See accompanying notes to these unaudited condensed consolidated financial statements.
+3
+Table of Contents
+CHART INDUSTRIES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE (LOSS) INCOME

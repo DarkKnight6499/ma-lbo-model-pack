@@ -1,0 +1,12 @@
+EARNINGS PER SHARE
+Basic and diluted net income per share of Class A common stock is presented below:
+(In millions, except per share amounts) | 2025 | 2024 | 2023
+Net income | 2,624 | 3,008 | 1,970
+Less: Net income attributable to noncontrolling interests | 36 | 29 | 27
+Net income attributable to Baker Hughes Company | 2,588 | 2,979 | 1,943
+Weighted average shares outstanding:
+Class A basic | 988 | 994 | 1,008
+Class A diluted | 994 | 1,001 | 1,015
+Net income per share attributable to common stockholders:
+Class A basic | 2.62 | 3.00 | 1.93
+Class A diluted | 2.60 | 2.98 | 1.91

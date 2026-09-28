@@ -1,0 +1,32 @@
+source_id,source,document,period,url,retrieved,status
+S01,SEC EDGAR,Baker Hughes 8-K filed 2025-07-29 Exhibit 99.1 (press release),Announcement 2025-07-29,https://www.sec.gov/Archives/edgar/data/1701605/000119312525167118/d912206dex991.htm,2026-09-28,VERIFIED
+S02,SEC EDGAR,Chart Industries DEFM14A filed 2025-09-08,As of 2025-09,https://www.sec.gov/Archives/edgar/data/892553/000119312525198320/d52397ddefm14a.htm,2026-09-28,VERIFIED
+S03,SEC EDGAR,Chart Industries 10-K,FY2025 (2025-12-31),https://www.sec.gov/Archives/edgar/data/892553/000089255326000027/gtls-20251231.htm,2026-09-28,VERIFIED
+S04,SEC EDGAR,Chart Industries 10-Q,Q1 2026 (2026-03-31),https://www.sec.gov/Archives/edgar/data/892553/000089255326000040/gtls-20260331.htm,2026-09-28,VERIFIED
+S05,SEC EDGAR,Chart Industries 10-Q,Q2 2025 (2025-06-30),https://www.sec.gov/Archives/edgar/data/892553/000089255325000119/gtls-20250630.htm,2026-09-28,VERIFIED
+S06,SEC EDGAR,Chart Industries 8-K filed 2026-02-27 Exhibit 99.1 (Q4 2025 results),FY2025,https://www.sec.gov/Archives/edgar/data/892553/000089255326000025/exhibit991gtls-20251231pre.htm,2026-09-28,VERIFIED
+S07,SEC EDGAR,Baker Hughes 10-K,FY2025 (2025-12-31),https://www.sec.gov/Archives/edgar/data/1701605/000170160526000007/bkr-20251231.htm,2026-09-28,VERIFIED
+S08,SEC EDGAR,Baker Hughes 10-Q,Q1 2026 (2026-03-31),https://www.sec.gov/Archives/edgar/data/1701605/000170160526000014/bkr-20260331.htm,2026-09-28,VERIFIED
+S09,SEC EDGAR,Baker Hughes 10-Q,Q2 2026 (2026-06-30),https://www.sec.gov/Archives/edgar/data/1701605/000170160526000023/bkr-20260630.htm,2026-09-28,VERIFIED
+S10,SEC EDGAR,Baker Hughes 8-K filed 2026-07-16 (closing and financing) and Exhibit 99.1,2026-07-16,https://www.sec.gov/Archives/edgar/data/1701605/000119312526305477/d105425d8k.htm,2026-09-28,VERIFIED
+S11,SEC EDGAR,Chart Industries 8-K filed 2026-07-16 (completion of merger; debt redeemed),2026-07-16,https://www.sec.gov/Archives/edgar/data/892553/000119312526305482/d10289d8k.htm,2026-09-28,VERIFIED
+S12,FRED (keyless CSV),SOFR daily series,2026-06-01 to 2026-09-25,https://fred.stlouisfed.org/graph/fredgraph.csv?id=SOFR,2026-09-28,VERIFIED
+S13,SEC EDGAR XBRL,companyfacts for Chart (CIK 892553) and Baker Hughes (CIK 1701605),Fiscal 2025 and 2026 filings,https://data.sec.gov/api/xbrl/companyfacts/,2026-09-28,VERIFIED (cross-check only)
+S14,yfinance,Baker Hughes forward EPS consensus,n/a,n/a,2026-09-28,DEAD END: Too Many Requests (rate limited); not used
+A01,Assumption,Tax rate,n/a,n/a,n/a,ILLUSTRATIVE
+A02,Assumption,Term loan margin,n/a,n/a,n/a,ILLUSTRATIVE
+A03,Assumption,Acquired intangibles fair value,n/a,n/a,n/a,ILLUSTRATIVE
+A04,Assumption,Intangibles life,n/a,n/a,n/a,ILLUSTRATIVE
+A05,Assumption,PP&E and inventory step-ups,n/a,n/a,n/a,ILLUSTRATIVE
+A06,Assumption,Transaction and financing fees,n/a,n/a,n/a,ILLUSTRATIVE
+A07,Assumption,Chart notes redemption premium,n/a,n/a,n/a,ILLUSTRATIVE
+A08,Assumption,Term loan repayment schedule,n/a,n/a,n/a,ILLUSTRATIVE
+A09,Assumption,Synergy phasing and integration costs,n/a,n/a,n/a,ILLUSTRATIVE
+A10,Assumption,Baker Hughes standalone growth,n/a,n/a,n/a,ILLUSTRATIVE
+A11,Assumption,NCI income,n/a,n/a,n/a,ILLUSTRATIVE
+A12,Assumption,Chart operating scenarios,n/a,n/a,n/a,ILLUSTRATIVE
+A13,Assumption,Capex percent of sales,n/a,n/a,n/a,ILLUSTRATIVE
+A14,Assumption,Hypothetical sponsor bid price,n/a,n/a,n/a,ILLUSTRATIVE
+A15,Assumption,Hypothetical LBO financing structure,n/a,n/a,n/a,ILLUSTRATIVE
+A16,Assumption,Exit multiple and hold period,n/a,n/a,n/a,ILLUSTRATIVE
+A17,Assumption,Noncontrolling interest measured at carrying value,n/a,n/a,n/a,ILLUSTRATIVE

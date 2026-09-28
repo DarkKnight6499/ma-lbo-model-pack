@@ -1,0 +1,26 @@
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31,
+(In millions, except per share amounts) | 2025 | 2024 | 2023
+Revenue:
+Sales of goods | 18,216 | 17,810 | 15,617
+Sales of services | 9,517 | 10,019 | 9,889
+Total revenue | 27,733 | 27,829 | 25,506
+Costs and expenses:
+Cost of goods sold | 14,388 | 14,291 | 12,801
+Cost of services sold | 6,801 | 7,055 | 6,803
+Selling, general and administrative | 2,387 | 2,458 | 2,611
+Research and development costs | 600 | 643 | 651
+Restructuring | 215 | 260 | 313
+Other (income) expense, net | 243 | ( 341 ) | ( 544 )
+Interest expense, net | 222 | 198 | 216
+Income before income taxes | 2,877 | 3,265 | 2,655
+Provision for income taxes | ( 253 ) | ( 257 ) | ( 685 )
+Net income | 2,624 | 3,008 | 1,970
+Less: Net income attributable to noncontrolling interests | 36 | 29 | 27
+Net income attributable to Baker Hughes Company | 2,588 | 2,979 | 1,943
+Per share amounts:
+Basic income per Class A common share | 2.62 | 3.00 | 1.93
+Diluted income per Class A common share | 2.60 | 2.98 | 1.91
+Cash dividend per Class A common share | 0.92 | 0.84 | 0.78
+See accompanying Notes to Consolidated Financial Statements
+Baker Hughes Company 2025 Form 10-K | 55

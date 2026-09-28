@@ -1,0 +1,52 @@
+CONSOLIDATED STATEMENTS OF INCOME
+(Dollars and shares in millions, except per share amounts)
+Year Ended December 31,
+2025 | 2024 | 2023
+Sales | 4,264.0 | 4,160.3 | 3,352.5
+Cost of sales | 2,826.2 | 2,771.5 | 2,312.1
+Gross profit | 1,437.8 | 1,388.8 | 1,040.4
+Selling, general and administrative expenses | 619.1 | 547.4 | 486.3
+Termination fee expense | 266.0 | — | —
+Amortization expense | 194.3 | 193.9 | 163.4
+Operating expenses | 1,079.4 | 741.3 | 649.7
+Operating income | 358.4 | 647.5 | 390.7
+Acquisition related finance fees | — | — | 26.1
+Interest expense, net | 307.8 | 328.5 | 289.1
+Other expense, net | 22.5 | 0.5 | 17.5
+Income from continuing operations before income taxes and equity in earnings of unconsolidated affiliates, net | 28.1 | 318.5 | 58.0
+Income tax (benefit) expense, net | ( 10.4 ) | 78.6 | 3.0
+Income from continuing operations before equity in earnings of unconsolidated affiliates, net | 38.5 | 239.9 | 55.0
+Equity in earnings (loss) of unconsolidated affiliates, net | 0.3 | ( 3.6 ) | 2.5
+Net income from continuing operations | 38.8 | 236.3 | 57.5
+Loss from discontinued operations, net of tax | ( 1.6 ) | ( 3.5 ) | ( 0.6 )
+Net income | 37.2 | 232.8 | 56.9
+Less: (Loss) income attributable to noncontrolling interests of continuing operations, net of taxes | ( 3.5 ) | 14.3 | 9.6
+Net income attributable to Chart Industries, Inc. | 40.7 | 218.5 | 47.3
+Amounts attributable to Chart common stockholders
+Income from continuing operations | 42.3 | 222.0 | 47.9
+Less: Mandatory convertible preferred stock dividend requirement | 27.2 | 27.2 | 27.3
+Income from continuing operations attributable to Chart | 15.1 | 194.8 | 20.6
+Loss from discontinued operations, net of tax | ( 1.6 ) | ( 3.5 ) | ( 0.6 )
+Net income attributable to Chart common stockholders | 13.5 | 191.3 | 20.0
+Basic earnings per common share attributable to Chart Industries, Inc.
+Income from continuing operations | 0.33 | 4.62 | 0.49
+Loss from discontinued operations | ( 0.03 ) | ( 0.08 ) | ( 0.01 )
+Net income attributable to Chart Industries, Inc. | 0.30 | 4.54 | 0.48
+Diluted earnings per common share attributable to Chart Industries, Inc.
+Income from continuing operations | 0.33 | 4.17 | 0.44
+Loss from discontinued operations | ( 0.03 ) | ( 0.07 ) | ( 0.01 )
+Net income attributable to Chart Industries, Inc. | 0.30 | 4.10 | 0.43
+Weighted-average number of common shares outstanding:
+Basic | 45.10 | 42.15 | 41.97
+Diluted | 45.37 | 46.67 | 46.82
+The accompanying notes are an integral part of these consolidated financial statements.
+F-5
+CHART INDUSTRIES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Dollars in millions)
+Year Ended December 31,
+2025 | 2024 | 2023
+Net income | 37.2 | 232.8 | 56.9
+Other comprehensive income (loss):
+Foreign currency translation adjustments | 361.4 | ( 167.2 ) | 63.7
+Defined benefit pension plan:

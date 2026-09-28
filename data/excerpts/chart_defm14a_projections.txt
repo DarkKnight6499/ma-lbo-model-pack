@@ -1,0 +1,8 @@
+The following table summarizes the Chart Projections as described above: 
+($ in Millions) | 2025E | 2026E | 2027E | 2028E | 2029E | 2030E
+Sales | 4,645 | 5,085 | 5,433 | 5,731 | 6,034 | 6,354
+EBITDA (1) | 1,146 | 1,286 | 1,395 | 1,490 | 1,589 | 1,673
+Capital Expenditures | 115 | 109 | 113 | 112 | 106 | N/A
+Free Cash Flow (2) | 507 | 701 | 832 | 930 | 1,013 | N/A
+(1) | EBITDA is a non-GAAP financial measure, defined as earnings before interest, taxes, depreciation, and amortization. For the purposes of the Chart Projections, EBITDA is adjusted to treat stock-based compensation as a cash expense.
+(2) | Free Cash Flow is a non-GAAP financial measure defined as Cash Flow From Operations less Capital Expenditures.

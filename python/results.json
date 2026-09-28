@@ -1,0 +1,287 @@
+{
+  "deal_name": "Baker Hughes Company acquisition of Chart Industries, Inc.",
+  "announcement_date": "2025-07-28",
+  "closing_date": "2026-07-16",
+  "eur_usd_implied_rate": 1.1383333333333334,
+  "merger_sources_and_uses": {
+    "shares": {
+      "basic_shares_q1_2026": 47.869076,
+      "rsu_shares": 0.09,
+      "psu_shares": 0.08,
+      "option_treasury_method_shares": 0.17526857142857144,
+      "total_diluted_shares": 48.214344571428576
+    },
+    "uses": {
+      "equity_purchase_price": 10125.01236,
+      "redeem_secured_notes": 1511.6375,
+      "redeem_unsecured_notes": 534.225,
+      "repay_term_loan": 1406.0,
+      "repay_revolver": 281.7,
+      "repay_other_debt": 1.3,
+      "advisory_and_legal_fees": 102.0,
+      "financing_fees": 29.7875,
+      "total_uses": 13991.66236
+    },
+    "sources": {
+      "new_term_loans": 2000.0,
+      "new_usd_notes": 6500.0,
+      "new_eur_notes_usd_equivalent": 3415.0,
+      "cash_on_hand": 2076.6623600000003,
+      "total_sources": 13991.66236
+    },
+    "implied_enterprise_value": 13415.01236,
+    "stated_enterprise_value": 13600.0,
+    "ev_variance_pct": -0.013602032352941107,
+    "stated_equity_value": 10100.0,
+    "equity_value_variance_pct": 0.002476471287128801
+  },
+  "purchase_price_allocation": {
+    "fair_value_assets": {
+      "cash": 366.0,
+      "accounts_receivable": 782.1,
+      "inventory": 600.915,
+      "unbilled_contract_revenue": 986.4,
+      "other_current_assets": 192.7,
+      "ppe": 1010.4600000000002,
+      "identifiable_intangibles": 4500.0,
+      "other_assets": 409.0
+    },
+    "total_fv_assets": 8847.575,
+    "fair_value_liabilities": {
+      "accounts_payable": 1236.5,
+      "customer_advances": 324.4,
+      "accrued_interest": 104.6,
+      "other_current_liabilities": 205.1,
+      "deferred_tax_liability_new": 485.01825000000014,
+      "other_long_term_liabilities": 183.4
+    },
+    "total_fv_liabilities": 2539.01825,
+    "new_deferred_tax_liability": 485.01825000000014,
+    "net_identifiable_assets": 6308.556750000001,
+    "nci_carrying_value": 145.4,
+    "goodwill": 3961.8556099999996,
+    "ppe_stepup": 91.86000000000013,
+    "inventory_stepup": 28.61500000000001,
+    "intangibles_fair_value": 4500.0
+  },
+  "proforma_income_statement": [
+    {
+      "year": 2026,
+      "combined_sales": 4349.28,
+      "chart_ebitda": 978.588,
+      "realized_synergies": 81.25,
+      "integration_costs": 162.5,
+      "incremental_da": 355.33984615384617,
+      "new_financing_interest": 556.5873799999999,
+      "financing_fee_amortization": 2.9787500000000002,
+      "chart_unlevered_ni": 536.9117600000001,
+      "bkr_standalone_ni": 2743.28,
+      "pro_forma_net_income": 2486.1181083615384
+    },
+    {
+      "year": 2027,
+      "combined_sales": 4653.7296,
+      "chart_ebitda": 1070.357808,
+      "realized_synergies": 195.0,
+      "integration_costs": 97.5,
+      "incremental_da": 355.33984615384617,
+      "new_financing_interest": 556.5873799999999,
+      "financing_fee_amortization": 2.9787500000000002,
+      "chart_unlevered_ni": 607.57451216,
+      "bkr_standalone_ni": 2907.8768000000005,
+      "pro_forma_net_income": 2881.0487105215384
+    },
+    {
+      "year": 2028,
+      "combined_sales": 4979.490672,
+      "chart_ebitda": 1170.18030792,
+      "realized_synergies": 325.0,
+      "integration_costs": 65.0,
+      "incremental_da": 355.33984615384617,
+      "new_financing_interest": 556.5873799999999,
+      "financing_fee_amortization": 2.9787500000000002,
+      "chart_unlevered_ni": 684.4378370984,
+      "bkr_standalone_ni": 3082.3494080000005,
+      "pro_forma_net_income": 3257.5096434599386
+    },
+    {
+      "year": 2029,
+      "combined_sales": 5278.26011232,
+      "chart_ebitda": 1266.7824269568,
+      "realized_synergies": 325.0,
+      "integration_costs": 0.0,
+      "incremental_da": 355.33984615384617,
+      "new_financing_interest": 556.5873799999999,
+      "financing_fee_amortization": 2.9787500000000002,
+      "chart_unlevered_ni": 758.8214687567361,
+      "bkr_standalone_ni": 3267.2903724800008,
+      "pro_forma_net_income": 3566.884239598275
+    },
+    {
+      "year": 2030,
+      "combined_sales": 5542.173117936,
+      "chart_ebitda": 1357.83241389432,
+      "realized_synergies": 325.0,
+      "integration_costs": 0.0,
+      "incremental_da": 355.33984615384617,
+      "new_financing_interest": 556.5873799999999,
+      "financing_fee_amortization": 2.9787500000000002,
+      "chart_unlevered_ni": 828.9299586986265,
+      "bkr_standalone_ni": 3463.327794828801,
+      "pro_forma_net_income": 3833.0301518889664
+    }
+  ],
+  "accretion_dilution": {
+    "by_year": [
+      {
+        "year": 2026,
+        "standalone_bkr_eps": 2.7560000000000002,
+        "pro_forma_eps": 2.5011248575065776,
+        "accretion_dilution_pct": -0.09248009524434786
+      },
+      {
+        "year": 2027,
+        "standalone_bkr_eps": 2.9213600000000004,
+        "pro_forma_eps": 2.8984393466011453,
+        "accretion_dilution_pct": -0.007845884587608154
+      },
+      {
+        "year": 2028,
+        "standalone_bkr_eps": 3.0966416000000003,
+        "pro_forma_eps": 3.2771726795371614,
+        "accretion_dilution_pct": 0.058298990602322576
+      },
+      {
+        "year": 2029,
+        "standalone_bkr_eps": 3.282440096000001,
+        "pro_forma_eps": 3.5884147279660716,
+        "accretion_dilution_pct": 0.09321560272765761
+      },
+      {
+        "year": 2030,
+        "standalone_bkr_eps": 3.479386501760001,
+        "pro_forma_eps": 3.8561671548178738,
+        "accretion_dilution_pct": 0.1082893932212714
+      }
+    ],
+    "breakeven_run_rate_synergies_year3": 325.0
+  },
+  "lbo": {
+    "sources_and_uses": {
+      "entry_ebitda": 1014.3,
+      "entry_ev": 13600.0,
+      "equity_purchase_price": 10100.0,
+      "refinance_existing_net_debt": 3500.0,
+      "advisory_fees": 136.0,
+      "financing_fees": 152.14499999999998,
+      "total_uses": 13888.145,
+      "term_loan_b": 4564.349999999999,
+      "senior_notes": 1521.4499999999998,
+      "new_debt_total": 6085.799999999999,
+      "sponsor_equity": 7802.345000000001,
+      "entry_leverage_x": 5.999999999999999
+    },
+    "debt_schedule": [
+      {
+        "year": 2026,
+        "ebitda": 978.588,
+        "capex": 95.68415999999999,
+        "interest_expense": 426.04686780470234,
+        "cash_taxes": 57.38641040491847,
+        "net_income": 192.1197217903792,
+        "free_cash_flow_pre_sweep": 332.09206179037915,
+        "mandatory_amortization": 45.643499999999996,
+        "cash_sweep": 249.06904634278436,
+        "beginning_tlb": 4564.349999999999,
+        "ending_tlb": 4269.637453657215,
+        "beginning_notes": 1521.4499999999998,
+        "ending_notes": 1521.4499999999998,
+        "ending_net_debt": 5541.087453657215
+      },
+      {
+        "year": 2027,
+        "ebitda": 1070.357808,
+        "capex": 102.38205119999999,
+        "interest_expense": 403.642754234067,
+        "cash_taxes": 83.6464123661646,
+        "net_income": 280.0336413997684,
+        "free_cash_flow_pre_sweep": 413.30809019976834,
+        "mandatory_amortization": 45.643499999999996,
+        "cash_sweep": 309.9810676498263,
+        "beginning_tlb": 4269.637453657215,
+        "ending_tlb": 3914.0128860073883,
+        "beginning_notes": 1521.4499999999998,
+        "ending_notes": 1521.4499999999998,
+        "ending_net_debt": 5185.462886007388
+      },
+      {
+        "year": 2028,
+        "ebitda": 1170.18030792,
+        "capex": 109.548794784,
+        "interest_expense": 376.8055125007908,
+        "cash_taxes": 112.77815294641809,
+        "net_income": 377.56164247279094,
+        "free_cash_flow_pre_sweep": 503.66934768879094,
+        "mandatory_amortization": 45.643499999999996,
+        "cash_sweep": 377.75201076659323,
+        "beginning_tlb": 3914.0128860073883,
+        "ending_tlb": 3490.617375240795,
+        "beginning_notes": 1521.4499999999998,
+        "ending_notes": 1521.4499999999998,
+        "ending_net_debt": 4762.067375240795
+      },
+      {
+        "year": 2029,
+        "ebitda": 1266.7824269568,
+        "capex": 116.12172247104,
+        "interest_expense": 345.25378507202953,
+        "cash_taxes": 142.25353763349722,
+        "net_income": 476.24010425127324,
+        "free_cash_flow_pre_sweep": 595.7748817802333,
+        "mandatory_amortization": 45.643499999999996,
+        "cash_sweep": 446.83116133517495,
+        "beginning_tlb": 3490.617375240795,
+        "ending_tlb": 2998.14271390562,
+        "beginning_notes": 1521.4499999999998,
+        "ending_notes": 1521.4499999999998,
+        "ending_net_debt": 4269.59271390562
+      },
+      {
+        "year": 2030,
+        "ebitda": 1357.83241389432,
+        "capex": 121.92780859459201,
+        "interest_expense": 308.9383770442376,
+        "cash_taxes": 171.547578475519,
+        "net_income": 574.3114583745636,
+        "free_cash_flow_pre_sweep": 688.0401497799717,
+        "mandatory_amortization": 45.643499999999996,
+        "cash_sweep": 516.0301123349788,
+        "beginning_tlb": 2998.14271390562,
+        "ending_tlb": 2436.469101570641,
+        "beginning_notes": 1521.4499999999998,
+        "ending_notes": 1521.4499999999998,
+        "ending_net_debt": 3707.919101570641
+      }
+    ],
+    "exit": {
+      "exit_ebitda": 1357.83241389432,
+      "exit_multiple": 12.0,
+      "exit_ev": 16293.988966731842,
+      "exit_net_debt": 3707.919101570641,
+      "exit_equity_value": 12586.0698651612
+    },
+    "returns": {
+      "moic": 1.6131137324946792,
+      "irr": 0.10035544707750366,
+      "hold_years": 5
+    }
+  },
+  "checks": {
+    "sources_equal_uses_merger": true,
+    "goodwill_positive": true,
+    "implied_ev_within_3pct_of_stated": true,
+    "lbo_sources_equal_uses": true,
+    "lbo_debt_balances_non_negative": true,
+    "MASTER_CHECK": true
+  }
+}

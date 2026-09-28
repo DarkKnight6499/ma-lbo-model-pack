@@ -1,0 +1,34 @@
+Add: Depreciation and amortization | 932 | 233 | 1,165
+Segment EBITDA | 2,618 | 2,482 | 5,100
+2024
+OFSE | IET | Total
+Revenue | 15,628 | 12,201 | 27,829
+Cost of goods and services sold | ( 12,448 ) | ( 8,738 ) | ( 21,186 )
+Research and development costs | ( 260 ) | ( 383 ) | ( 643 )
+Selling, general and administrative | ( 932 ) | ( 1,250 ) | ( 2,182 )
+Add: Depreciation and amortization | 893 | 220 | 1,113
+Segment EBITDA | 2,881 | 2,050 | 4,931
+2023
+OFSE | IET | Total
+Revenue | 15,361 | 10,145 | 25,506
+Cost of goods and services sold | ( 12,282 ) | ( 7,220 ) | ( 19,502 )
+Research and development costs | ( 278 ) | ( 373 ) | ( 651 )
+Selling, general and administrative | ( 1,055 ) | ( 1,242 ) | ( 2,297 )
+Add: Depreciation and amortization | 849 | 217 | 1,066
+Segment EBITDA | 2,595 | 1,527 | 4,121
+Baker Hughes Company 2025 Form 10-K | 91
+Baker Hughes Company
+Notes to Consolidated Financial Statements
+Reconciliation of segment EBITDA to Net Income Attributable to Baker Hughes Company: | 2025 | 2024 | 2023
+OFSE | 2,618 | 2,881 | 2,595
+IET | 2,482 | 2,050 | 1,527
+Total segment | 5,100 | 4,931 | 4,121
+Corporate costs (1) | ( 318 ) | ( 340 ) | ( 359 )
+Inventory impairment (2) | ( 22 ) | ( 73 ) | ( 35 )
+Restructuring (3) | ( 215 ) | ( 260 ) | ( 313 )
+Other income (expense), net (4) | ( 262 ) | 341 | 544
+Depreciation and amortization (3) | ( 1,184 ) | ( 1,136 ) | ( 1,087 )
+Interest expense, net | ( 222 ) | ( 198 ) | ( 216 )
+Income before income taxes | 2,877 | 3,265 | 2,655
+Provision for income taxes | ( 253 ) | ( 257 ) | ( 685 )
+Net Income | 2,624 | 3,008 | 1,970
